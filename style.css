@@ -140,13 +140,13 @@ button {
     place-items: center;
 
     border-radius: 11px;
-
+/* 
     background:
         linear-gradient(
             135deg,
             var(--blue),
             var(--purple)
-        );
+        ); */
 
     font-size: 12px;
 
